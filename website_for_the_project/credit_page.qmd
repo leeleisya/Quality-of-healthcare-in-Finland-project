@@ -14,25 +14,26 @@ This page summarizes the key contributions and sources.
 
 ### 🗂️ Data Sources
 - **[THL – Finnish Institute for Health and Welfare](https://thl.fi/en/)** – Open statistics on healthcare access and satisfaction.  
-- **[Yle News](https://yle.fi)** – Articles and reports discussing the healthcare situation in Finland.  
-- **Official Statistics of Finland (OSF)** – Regional data on population and healthcare resources.
+- **[Yle News](https://yle.fi)** – Articles and reports discussing the healthcare situation in Finland. (Articles and content cited from Yle remain the intellectual property of their respective authors.)
+- **[Official Statistics of Finland (OSF)](https://stat.fi/meta/svt/index_en.html)** – Regional data on population and healthcare resources.
+- **[Sotkanet - Additional open statistics in Finland](https://sotkanet.fi/sotkanet/fi/index)** - Regional data on healthcare statistics in Finland.
 
 ---
 
 ### 🖼️ Media & Graphics
-- The **Yle logo** is the property of *Yle – Finnish Broadcasting Company* and is used here for educational and non-commercial purposes.  
+- The **Yle logo** is the property of [Yle – Finnish Broadcasting Company](https://yle.fi) and is used here for educational purposes only.
 - Other icons and illustrations are sourced from *[Flaticon](https://www.flaticon.com/)* and *[Unsplash](https://unsplash.com/)* under free-use licenses.  
 - Custom plots and animations are made by *Larkina Yelyzaveta* and additional statistic graphs made by *Gnaneswar Vinta*.
 
 ---
 
 ### 🧭 Purpose of the Project
-This website was created as a small data science exploration to understand  **public satisfaction with healthcare quality in Finland**.  
-It has no commercial intent — purely educational and research-focused.
+This website was created as a small data science exploration to understand  **public satisfaction with healthcare quality in Finland** and is a part of mini-project in "Introduction to Data Science" course in Helsinki University, 2025. 
+Team members are: *Yelyzaveta Larkina, Guillermo Arjona Galvez, Gnaneswar Vinta*.
+This project is not affiliated with any commercial institution.  — purely educational and research-focused.
 
 ---
 
 <small>
-*This project is not affiliated with any commercial institution.  
-All opinions and interpretations belong solely to the author.*
+*All opinions and interpretations belong to the authors.*
 </small>

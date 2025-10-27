@@ -1,7 +1,7 @@
 ---
 title: "Why we have started this mini-project"
 ---
-## Main problems in Finland:
+## 🔍 Main problems in Finland:
 In recent years, Yle, the Finnish news source, has published several articles highlighting issues in Finland’s healthcare system. For example:
 
 ![Yle logo](images/Ylen_logo.svg.png){fig-align="left" width=150px}
@@ -24,15 +24,7 @@ In recent years, Yle, the Finnish news source, has published several articles hi
 
 ---
 
-### Credits / Sources / Copyright
-
-- The Yle logo is the property of [Yle – Finnish Broadcasting Company](https://yle.fi) and is used here for educational purposes only.
-- Articles and content cited from Yle remain the intellectual property of their respective authors.
-- The author of this website does not claim ownership of these materials.
-
----
-
-### Our reasoning:
+### 🧠 Our reasoning:
 
 The challenges in Finland’s healthcare system can be summarized as follows:
 
@@ -63,3 +55,4 @@ The challenges in Finland’s healthcare system can be summarized as follows:
 ---
 
 All of these reasons and their highlight in Finnish news made us to investigate the data about how satisfied patients in healthcare are and comparing it to other countries healthcare.
+This research is part of mini-project in "Introduction to Data Science" course in Helsinki University, 2025.
