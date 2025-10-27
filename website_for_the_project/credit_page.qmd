@@ -1,0 +1,38 @@
+## Credits and contributions
+This page summarizes the key contributions and sources.
+
+---
+
+### 🧑‍💻 Website Creator
+****  
+
+<small>© 2025 by Larkina Yelyzaveta.</small>
+
+<small>All rights for creating this website belong solely to Larkina Yelyzaveta. Before sharing anything publicly from this website, please do ask permission.</small>
+
+---
+
+### 🗂️ Data Sources
+- **[THL – Finnish Institute for Health and Welfare](https://thl.fi/en/)** – Open statistics on healthcare access and satisfaction.  
+- **[Yle News](https://yle.fi)** – Articles and reports discussing the healthcare situation in Finland.  
+- **Official Statistics of Finland (OSF)** – Regional data on population and healthcare resources.
+
+---
+
+### 🖼️ Media & Graphics
+- The **Yle logo** is the property of *Yle – Finnish Broadcasting Company* and is used here for educational and non-commercial purposes.  
+- Other icons and illustrations are sourced from *[Flaticon](https://www.flaticon.com/)* and *[Unsplash](https://unsplash.com/)* under free-use licenses.  
+- Custom plots and animations are made by *Larkina Yelyzaveta* and additional statistic graphs made by *Gnaneswar Vinta*.
+
+---
+
+### 🧭 Purpose of the Project
+This website was created as a small data science exploration to understand  **public satisfaction with healthcare quality in Finland**.  
+It has no commercial intent — purely educational and research-focused.
+
+---
+
+<small>
+*This project is not affiliated with any commercial institution.  
+All opinions and interpretations belong solely to the author.*
+</small>

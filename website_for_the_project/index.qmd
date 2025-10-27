@@ -1,0 +1,51 @@
+## Positive client expirience in healthcare in Finland
+
+<iframe src="assets/finland_interactive_map_animation.html" width="100%" height="600px" frameborder="0"></iframe>
+<small><em>(You can interact with this map and hover your cursor over region to see the % of positive client experience)</em></small>
+
+<small><em>© Made by Larkina Yelyzaveta</em></small>
+
+In 2024 year, North Karelia had the lowest healthcare satisfaction at 49.5%, while Ostrobothnia had the highest at 63.8%. Depending on the Finnish region, every 2nd or 3rd patient was not satisfied with Finnish healthcare.
+
+## Patient satisfication exploration
+![](images/patien_satisfaction_journey.png)
+
+<small><em>© Made by Gnaneswar Vinta</em></small>
+
+Trust to Finnish healthcare has been decreasing from 83% to 54% during 2020-2024 years.
+
+## Continuity of care in Finland
+
+![](images/Continuity_of_Care_in_Finland_(combined_genders_&_all_regions)_for_outpatients_in_primary_care.gif)
+
+<small><em>© Made by Larkina Yelyzaveta</em></small>
+
+In 2024, 15–30% of Finnish patients visited the same assigned doctor or nurse. The factor of having different doctor and nurse every visit may be one of the reasons why patients are unhappy with healthcare.
+
+## Healthcare trends: health status vs. healthcare expenditure
+![](images/finnish_healthcare_journey.jpg)
+
+<small><em>© Made by Gnaneswar Vinta</em></small>
+
+During the few last years, the exponditure on healthcare has been raising among Finnish patients. Due to the fact, it most likely be one of the reasons why people are not satified with healthcare system in Finland.
+
+## Healthcare system efficiency matrix: Finland vs. European countries
+![](images/nordic_healthcare_scorecard.png)
+
+<small><em>© Made by Gnaneswar Vinta</em></small>
+
+Finland has great results in integration healthcare system among some other European countries. On the contrary to this, it also shows that Finland has the worst results in patient satisfaction.
+
+## Healthcare transformation prediction
+![](images/healthcare_transformation.jpg)
+
+<small><em>© Made by Gnaneswar Vinta</em></small>
+
+Because of the recent upcoming changes, we're predicting that Finland is awaiting positive outcomes from current laws around 2030 year and will become a leader among Nordic countries in health status.
+
+## Finnish healthcare transformation by 2030 year
+![](images/finland_healthcare_transform_2030.jpg)
+
+<small><em>© Made by Gnaneswar Vinta</em></small>
+
+Our final say is that Finland will be raising in the global rank in healthcare field and patient's satisfaction will be increased slightly. And population health focus will change: transition from treatment-centered to prevention-centered system​.

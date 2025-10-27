@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Satisfaction with healthcare quality in Finland"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Mini-project main page
+      - href: about_project.qmd
+        text: Why we have started this mini-project
+      - href: credit_page.qmd
+        text: Credits
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

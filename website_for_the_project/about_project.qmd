@@ -1,0 +1,65 @@
+---
+title: "Why we have started this mini-project"
+---
+## Main problems in Finland:
+In recent years, Yle, the Finnish news source, has published several articles highlighting issues in Finland’s healthcare system. For example:
+
+![Yle logo](images/Ylen_logo.svg.png){fig-align="left" width=150px}
+
+<small><em>Logo © Yle — used here for educational purposes only.</em></small>
+
+> Central Finland wellbeing services county has announced job cuts affecting some 330 people, after talks with unions that began in August.
+ 
+[Read more at this Yle article](https://yle.fi/a/74-20122520)
+
+>In 2021, 96 percent of Finns said they trusted the healthcare system. By June 2024, the level of trust had dropped to 83 percent. The report (in Finnish) drew on results from the government-commissioned Citizens' Pulse survey between 2021 and 2024.
+
+[Read more by this link](https://yle.fi/a/74-20110636)
+
+>Recently, the government announced plans to increase the >maximum customer fees for social and healthcare services >in its draft budget proposal, enabling welfare regions >to charge patients more.
+
+>Depending on the region, visits to a health centre next year may see an increase of five euros, raising the fee to about 28 euros. The hospital outpatient fee will increase by approximately 20 euros, bringing it to nearly 70 euros.
+
+[Read more here](https://yle.fi/a/74-20116349)
+
+---
+
+### Credits / Sources / Copyright
+
+- The Yle logo is the property of [Yle – Finnish Broadcasting Company](https://yle.fi) and is used here for educational purposes only.
+- Articles and content cited from Yle remain the intellectual property of their respective authors.
+- The author of this website does not claim ownership of these materials.
+
+---
+
+### Our reasoning:
+
+The challenges in Finland’s healthcare system can be summarized as follows:
+
+#### Key Issues
+- Increasing healthcare fees  
+- Job cuts in the healthcare sector  
+- Lower patient trust  
+- Growing mental health concerns  
+
+---
+
+#### Most Common Complaints from Patients
+- Long waiting times  
+- Difficulty accessing service information  
+- Rushed primary care appointments  
+- Communication gaps between providers  
+- Regional inequality in service access  
+
+---
+
+#### Most Praised Aspects
+- Staff professionalism and friendliness  
+- Effective treatments  
+- Universal access regardless of income  
+- Convenient digital services  
+- High-quality emergency care
+
+---
+
+All of these reasons and their highlight in Finnish news made us to investigate the data about how satisfied patients in healthcare are and comparing it to other countries healthcare.
