@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs._quarto.yml
 
 website:
   title: "Satisfaction with healthcare quality in Finland"
