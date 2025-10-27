@@ -8,7 +8,8 @@ This page summarizes the key contributions and sources.
 
 <small>© 2025 by Larkina Yelyzaveta.</small>
 
-<small>All rights for creating this website belong solely to Larkina Yelyzaveta. Before sharing anything publicly from this website, please do ask permission.</small>
+<small>All rights for creating this website belong solely to Larkina Yelyzaveta. Before sharing anything publicly from this website, please do ask permission. 
+Another contributors to this project such as Guillermo Arjona Galvez and Gnaneswar Vinta may use this website to reference to their work in this group project without asking permission and only in non-comersial purposes.</small>
 
 ---
 
@@ -35,5 +36,5 @@ This project is not affiliated with any commercial institution.  — purely educ
 ---
 
 <small>
-*All opinions and interpretations belong to the authors.*
+*All opinions and interpretations belong to the authors of graphs.*
 </small>
